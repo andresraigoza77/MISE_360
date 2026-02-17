@@ -1,11 +1,9 @@
-fastapi
-uvicorn
-pydantic
-python-multipart
-python-jose
+streamlit
 pandas
+plotly
 openpyxl
 fpdf
-streamlit
-plotly
-requests
+python-jose
+passlib
+bcrypt
+pydantic
