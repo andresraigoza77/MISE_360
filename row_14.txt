@@ -1,0 +1,55 @@
+Col 0: Pilar 1. Bienestar Social y Económico
+Col 1: Fortalecer las habilidades de liderazgo de los líderes estudiantiles egresados a través de un proceso formativo que también les permita proyectarse a nuevos escenarios de participación.
+Col 2: Asesoría y asistencia a líderes estudiantiles de establecimientos educativos oficiales
+Col 3: 428
+Col 4: Agenciamiento y modelos de representación
+Col 5: Surgimiento y renovación de actores, sectores y agendas de la participación
+Col 6: Coordinación, sinergias y alianzas para el fortalecimiento a la ciudadanía
+Col 7: Fortalecer las habilidades de liderazgo de los líderes estudiantiles egresados a través de un proceso formativo que también les permita proyectarse a nuevos escenarios de participación.
+Col 8: Líderes estudiantiles egresados de instituciones educativas oficiales y no oficiales beneficiados con estrategias de liderazgo
+Col 9: Niños, niñas, jóvenes, adolescentes, directivos docentes, docentes y padres de familia
+Col 10: Indicador de Producto
+Col 11: V1
+Col 12: V1: Número de líderes estudiantiles egresados de instituciones educativas oficiales, no oficiales y de cobertura beneficiados con estrategias de liderazgo
+Col 13: Registros administrativos de la SED
+Col 14: Número
+Col 15: Mediano Plazo
+Col 16: Mensual
+Col 17: Nuevo
+Col 18: No aplica
+Col 19: No aplica
+Col 20: 250
+Col 21: 2025
+Col 22: Incrementar
+Col 23: Acumulado
+Col 24: 0
+Col 25: LA RED que va a ser la estrategia de acompañamiento para líderes egresados, está en proceso de estudios previos.
+Col 26: Registros administrativos SED
+Col 27: 0
+Col 28: La línea del proyecto El Líder Sos Vos - LA RED se encuentra actualmente en etapa precontractual, en la cual se está revisando la última propuesta presentada por la Institución Universitaria designada como posible operador del componente.
+Col 29: Registros administrativos SED
+Col 30: 0
+Col 31: Durante el mes de septiembre se dio apertura a las preinscripciones de este componente. Asimismo, a partir del próximo mes se iniciará la planeación de las formaciones con la Universidad EAFIT, en el marco del contrato. Esta línea de El Líder Sos Vos  La Red es una de las que se espera impactar de manera significativa.
+Col 32: Registros administrativos SED
+Col 33: 250
+Col 34: Durante el mes de diciembre se realizó el cierre de este componente el 13 de diciembre, fecha en la cual finalizó el ciclo de formación y acompañamiento dirigido a los líderes estudiantiles egresados de los establecimientos educativos, en el marco del contrato con la Universidad EAFIT.
+Col 35: Formatos de Asistencia.                                                                                                                                                                                                                                                                                                                            Formularios de Inscrición de Asistencia.                                                                                                                                                                                                                                                                                                                     Registros audiovisuales y fotograficos.
+Col 36: Femenino y masculino
+Col 37: No aplica
+Col 38: Todas las edades
+Col 39: No aplica
+Col 40: No aplica
+Col 41: No aplica
+Col 42: No aplica
+Col 43: Toda la ciudad
+Col 44: 711
+Col 45: Secretaría de Educación
+Col 46: Equipo de EL LÍDER SOS VOS
+Col 47: 711
+Col 48: Secretaría de Educación
+Col 49: 240051
+Col 50: ASESORÍA Y ASISTENCIA A LÍDERES ESTUDIANTILES DE ESTABLECIMIENTOS EDUCATIVOS
+Col 51: 250
+Col 52: 300723032
+Col 53: 0
+Col 54: El presupuesto relacionado, es el presupuesto total de todo el proyecto.

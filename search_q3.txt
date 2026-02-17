@@ -1,0 +1,70 @@
+--- ROW 5 ---
+Col 0: Plan de Desarrollo Distrital
+Col 3: Identificación general
+Col 10: Características del Indicador
+Col 17: Horizonte temporal
+Col 24: Registro del seguimiento - trimestral
+Col 36: Territorialización
+Col 44: Responsables
+Col 49: Seguimiento presupuestal
+Col 55: Aprendizaje reflexivo
+--- ROW 7 ---
+Col 0: Pilar o Eje 
+Plan de Desarrollo Distrital
+Col 1: Programa
+Plan de Desarrollo Distrital
+Col 2: Proyectos Estratégicos 
+Plan de Desarrollo Distrital
+Col 3: Código Indicador
+Col 4: Dimensión
+Col 5: Subdimensión
+Col 6: Componente
+Col 7: Producto/accion
+Col 8: Indicador de Producto
+Col 9: Población objetivo
+Col 10: Tipo de Indicador
+Col 11: Fórmula de cálculo
+Col 12: Variables que componen la fórmula
+Col 13: Fuente de datos
+Col 14: Unidad de medida del indicador
+Col 15: Periodicidad de cálculo del indicador
+Col 16: Fecha/periodo de actualización
+Col 17: Línea base
+Col 18: Año base
+Col 19: Unidad de medida de la línea base
+Col 20: Meta del indicador
+Col 21: Año meta
+Col 22: Comportamiento deseado
+Col 23: Tipo de acumulación
+Col 24: Resultado
+Col 25: Observaciones
+Col 26: Fuente de verificacion
+Col 27: Resultado
+Col 28: Observaciones
+Col 29: Fuente de verificacion
+Col 30: Resultado
+Col 31: Observaciones
+Col 32: Fuente de verificacion
+Col 33: Resultado
+Col 34: Observaciones
+Col 35: Fuente de verificacion
+Col 36: Sexo
+Col 37: LGBT
+Col 38: Rangos etarios
+Col 39: Discapacidad
+Col 40: Afro
+Col 41: Indígena
+Col 42: Víctimas
+Col 43: Comunas-Corregimientos
+Col 44: Código Dependencia Responsable (reporte)
+Col 45: Nombre Dependencia Responsable (reporte)
+Col 46: Unidad responsable del reporte
+Col 47: Código Dependencia Responsable (misional)
+Col 48: Nombre Dependencia Responsable (misional)
+Col 49: Código del Proyecto
+Col 50: Nombre del Proyecto
+Col 51: Meta del Proyecto
+Col 52: Presupuesto programado
+Col 53: Presupuesto ejecutado
+Col 54: Observaciones Presupuesto
+Col 55: Observaciones seguimiento

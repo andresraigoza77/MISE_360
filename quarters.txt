@@ -1,0 +1,7 @@
+Row 6, Col 24: Trimestre I - 2025
+Row 6, Col 27: Trimestre II - 2025
+Row 6, Col 30: Trimestre III - 2025
+Row 6, Col 33: Trimestre IV - 2025
+Row 8, Col 25: El total de IEO asesoradas y asistidas técnicamente para el diseño y puesta en marcha de los planes de convivencia escolar durante este período fue de 121 (53%). Los resultados relacionados en cada trimestre no son acumulados, toda vez que la asesoría y asistencia técnica se realiza a necesidad  y/o solicitud de cada institución.
+Row 8, Col 31: El total de IEO asesoradas y asistidas técnicamente para el diseño y puesta en marcha de los planes de convivencia escolar durante el período correspondiente al tercer trimestre de 2025 fue de 221 (97%)
+Row 8, Col 34: El total de IEO asesoradas y asistidas técnicamente para el diseño y puesta en marcha de los planes de convivencia escolar durante el período correspondiente al cuarto trimestre de 2025 fue de 224 (98%)

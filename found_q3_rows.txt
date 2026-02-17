@@ -1,0 +1,28 @@
+--- ROW 5 ---
+Col 24: registro del seguimiento - trimestral
+Col 55: aprendizaje reflexivo
+--- ROW 6 ---
+Col 24: trimestre i - 2025
+Col 27: trimestre ii - 2025
+Col 30: trimestre iii - 2025
+Col 33: trimestre iv - 2025
+--- ROW 7 ---
+Col 9: población objetivo
+--- ROW 8 ---
+Col 1: diseñar e implementar acciones de carácter pedagógico para promocionar los planes de convivencia estudiantil.
+Col 3: 421
+Col 7: asesorar y asistir técnicamente y/o acompañar el diseño y puesta en marcha de los planes de convivencia estudiantil.
+Col 8: establecimientos educativos oficiales que cuentan con plan de asesoría, asistencia técnica y/o  acompañamiento para el diseño y puesta en marcha de los planes de convivencia escolar 
+Col 9: niños, niñas, jóvenes, adolescentes, directivos docentes, docentes y padres de familia
+Col 12: v1: número de establecimientos educativos oficiales que cuentan con plan de asesoría, asistencia técnica y/o  acompañamiento para el diseño y puesta en marcha de los planes de convivencia escolar  v2: total de establecimientos educativos oficiales
+Col 16: trimestral
+Col 24: 0.5307017543859649
+Col 25: el total de ieo asesoradas y asistidas técnicamente para el diseño y puesta en marcha de los planes de convivencia escolar durante este período fue de 121 (53%). los resultados relacionados en cada trimestre no son acumulados, toda vez que la asesoría y asistencia técnica se realiza a necesidad  y/o solicitud de cada institución.
+Col 27: 0.9473684210526315
+Col 28: el total de ieo asesoradas y asistidas técnicamente para el diseño y puesta en marcha de los planes de convivencia escolar durante el período correspondiente al primer semestre de 2025 fue de 216 (95%)
+Col 31: el total de ieo asesoradas y asistidas técnicamente para el diseño y puesta en marcha de los planes de convivencia escolar durante el período correspondiente al tercer trimestre de 2025 fue de 221 (97%)
+Col 34: el total de ieo asesoradas y asistidas técnicamente para el diseño y puesta en marcha de los planes de convivencia escolar durante el período correspondiente al cuarto trimestre de 2025 fue de 224 (98%)
+Col 46: línea construyo convivencia
+Col 49: 240059
+Col 52: 20134121071
+Col 53: 20066308762

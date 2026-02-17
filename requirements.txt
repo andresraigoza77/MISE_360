@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+python-jose
+pandas
+openpyxl
+fpdf
+streamlit
+plotly
+requests

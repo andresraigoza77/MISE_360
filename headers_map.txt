@@ -1,0 +1,33 @@
+--- Mapping Row 6 (Headers) vs Row 7 (Sub-headers) ---
+Col 24: [R6] Trimestre I - 2025             | [R7] Resultado
+Col 25: [R6] nan                            | [R7] Observaciones 
+Col 26: [R6] nan                            | [R7] Fuente de verificacion
+Col 27: [R6] Trimestre II - 2025            | [R7] Resultado
+Col 28: [R6] nan                            | [R7] Observaciones 
+Col 29: [R6] nan                            | [R7] Fuente de verificacion
+Col 30: [R6] Trimestre III - 2025           | [R7] Resultado
+Col 31: [R6] nan                            | [R7] Observaciones 
+Col 32: [R6] nan                            | [R7] Fuente de verificacion
+Col 33: [R6] Trimestre IV - 2025            | [R7] Resultado
+Col 34: [R6] nan                            | [R7] Observaciones 
+Col 35: [R6] nan                            | [R7] Fuente de verificacion
+Col 36: [R6]  Desagregación Grupo Poblacion | [R7] Sexo
+Col 37: [R6] nan                            | [R7] LGBT
+Col 38: [R6] nan                            | [R7] Rangos etarios
+Col 39: [R6] nan                            | [R7] Discapacidad
+Col 40: [R6] nan                            | [R7] Afro
+Col 41: [R6] nan                            | [R7] Indígena
+Col 42: [R6] nan                            | [R7] Víctimas
+Col 43: [R6] Desagregación Territorial      | [R7] Comunas-Corregimientos
+Col 44: [R6] Unidades y dependencias respon | [R7] Código Dependencia Responsable (reporte)
+Col 45: [R6] nan                            | [R7] Nombre Dependencia Responsable (reporte)
+Col 46: [R6] nan                            | [R7] Unidad responsable del reporte
+Col 47: [R6] nan                            | [R7] Código Dependencia Responsable (misional)
+Col 48: [R6] nan                            | [R7] Nombre Dependencia Responsable (misional)
+Col 49: [R6] Inversión por producto         | [R7] Código del Proyecto  
+Col 50: [R6] nan                            | [R7] Nombre del Proyecto
+Col 51: [R6] nan                            | [R7] Meta del Proyecto
+Col 52: [R6] nan                            | [R7] Presupuesto programado 
+Col 53: [R6] nan                            | [R7] Presupuesto ejecutado
+Col 54: [R6] nan                            | [R7] Observaciones Presupuesto
+Col 55: [R6] Análisis anual                 | [R7] Observaciones seguimiento

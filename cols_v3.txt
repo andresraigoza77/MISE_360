@@ -1,0 +1,27 @@
+--- Columns 30-55 for Row 7 in 4. Seguimiento 2025 ---
+Col 30: resultado
+Col 31: observaciones 
+Col 32: fuente de verificacion
+Col 33: resultado
+Col 34: observaciones 
+Col 35: fuente de verificacion
+Col 36: sexo
+Col 37: lgbt
+Col 38: rangos etarios
+Col 39: discapacidad
+Col 40: afro
+Col 41: indígena
+Col 42: víctimas
+Col 43: comunas-corregimientos
+Col 44: código dependencia responsable (reporte)
+Col 45: nombre dependencia responsable (reporte)
+Col 46: unidad responsable del reporte
+Col 47: código dependencia responsable (misional)
+Col 48: nombre dependencia responsable (misional)
+Col 49: código del proyecto  
+Col 50: nombre del proyecto
+Col 51: meta del proyecto
+Col 52: presupuesto programado 
+Col 53: presupuesto ejecutado
+Col 54: observaciones presupuesto
+Col 55: observaciones seguimiento

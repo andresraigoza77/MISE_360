@@ -1,0 +1,1090 @@
+Excel file loaded: SegIndic_PPPC_300625.xlsx
+Sheet names: ['1. Instructivo diligenciamiento', 'Consolidado 2025', 'CUADRO DE SEGUIMIENTO', 'Matriz_MISE_Cultura_300625 ', 'Matriz_MISE_DAP_300625 ', 'Matriz_MISE_Educación_300625', 'Matriz_MISE_Étnica_300625 ', 'Matriz_MISE_Juventud_300325', 'Matriz_MISE_GH_300625', 'Matriz_MISE_Mujeres_300625', 'Matriz_MISE_PazDH_300625', 'Matriz_MISE_SISF_300625', 'Matriz_MISE_SPC_300625']
+
+--- Analysis of Sheet: 1. Instructivo diligenciamiento ---
+Dimensions: (68, 3)
+Columns:
+  - Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín
+Instructivo de Diligenciamiento  (object)
+  - Unnamed: 1 (str)
+  - Unnamed: 2 (str)
+
+First 5 rows:
+  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín\nInstructivo de Diligenciamiento  Unnamed: 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Unnamed: 2
+0                                                                                             Estructura de la Matriz Integrada de Seguimiento y Evaluación        NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         NaN
+1                                                                                                                                               Descripción        NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     La Matriz Integrada de Seguimiento y Evaluación es una herramienta que permite realizar el monitoreo y el seguimiento a los indicadores de producto, resultado, impacto y capa externa, para dar cuenta de la manera como el problema público se va a resolver a través de dimensiones, componentes y estrategias que están interconectadas. A su vez, posibilita registrar, procesar y presentar un consolidado de la gestión realizada en temporalidades determinadas, apoyada por la información de la ficha técnica de los indicadores, lo que constituye un insumo esencial para soportar la metodología del levantamiento de esa información. Esta matriz posibilita tanto planear y programar la manera cómo se espera alcanzar las metas, así como realizar un seguimiento permanente a la gestión pública realizada desde la PPPCC, en su horizonte temporal. 
+2                                                                                                                                                  Objetivo        NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Determinar el grado de avance en los objetivos, estrategias, acciones y metas contempladas en la cadena de valor de la Política Pública de Participación Ciudadana para garantizar un monitoreo continuo, sistemático, articulado y la generación de aprendizajes clave para su mejora, en el marco del Modelo Integrador de Seguimiento y Evaluación - MISE-PC -. 
+3                                                                                                                                                   Alcance        NaN  La Matriz Integrada de Seguimiento y Evaluación contempla la Teoría del Cambio, en la cual se relacionan las hipótesis para la transformación del problema público y el logro del objetivo general. Además, cuenta con el Plan Indicativo, el cual posibilita planear la manera cómo se cumplirán las metas propuestas e integra la información de la ficha técnica de indicadores. Asimismo, cuenta con las hojas que permiten registrar por parte de los responsables de la ejecución el seguimiento anual a los indicadores de producto, resultado, impacto, capa externa e inversión presupuestal, y dos pestañas de apoyo para la codificación del área temática a la cual corresponden los indicadores y de las dependencias responsables de la implementación de acciones y reporte de avance en los indicadores. E incluye notas de apoyo que orientan cómo se debe diligenciar cada ítem. La información diligenciada en esta Matriz, debe ser validada, complementada y ajustada por los responsables de la ejecución de la PPPC, cada año se deben crear hojas nuevas correspondientes al seguimiento de la implementación en cada vigencia y, a partir de los aprendizajes, ajustar de acuerdo a las necesidades o potencialidades emergentes. Nota: Esta matriz recoge la información requerida por el DAP Medellín para el seguimiento a indicadores, del formato "Batería de indicadores". 
+4                                                                                                                                         Teoría del cambio        NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      En esta hoja se relaciona la teoría del cambio, planteada desde la lógica de la cadena de valor de la Política Pública. Las hipótesis o supuestos se relacionan a nivel de "Dimensión - Impacto" y "Subdimensión - dimensión". Una vez validadas y especificadas las hipótesis y supuestos, es necesario determinar los riesgos o eventos inciertos que podrían llegar a suceder en el futuro, dentro del horizonte de ejecución de la PPPC, diligenciando los campos de tipología de riesgo, riesgo, probaibilidad, impacto y medidas de mitigación. 
+
+Potential Categorical Columns (Cardinality < 20):
+
+--- Analysis of Sheet: Consolidado 2025 ---
+Dimensions: (103, 57)
+Columns:
+  - Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín
+Seguimiento - Capa Interna (str)
+  - Unnamed: 1 (str)
+  - Unnamed: 2 (str)
+  - Unnamed: 3 (object)
+  - Unnamed: 4 (str)
+  - Unnamed: 5 (object)
+  - Unnamed: 6 (str)
+  - Unnamed: 7 (str)
+  - Unnamed: 8 (str)
+  - Unnamed: 9 (str)
+  - Unnamed: 10 (str)
+  - Unnamed: 11 (str)
+  - Unnamed: 12 (str)
+  - Unnamed: 13 (str)
+  - Unnamed: 14 (str)
+  - Unnamed: 15 (str)
+  - Unnamed: 16 (object)
+  - Unnamed: 17 (object)
+  - Unnamed: 18 (object)
+  - Unnamed: 19 (str)
+  - Unnamed: 20 (object)
+  - Unnamed: 21 (object)
+  - Unnamed: 22 (str)
+  - Unnamed: 23 (str)
+  - Unnamed: 24 (object)
+  - Unnamed: 25 (str)
+  - Unnamed: 26 (str)
+  - Unnamed: 27 (object)
+  - Unnamed: 28 (str)
+  - Unnamed: 29 (str)
+  - Unnamed: 30 (object)
+  - Unnamed: 31 (str)
+  - Unnamed: 32 (str)
+  - Unnamed: 33 (object)
+  - Unnamed: 34 (str)
+  - Unnamed: 35 (str)
+  - Unnamed: 36 (str)
+  - Unnamed: 37 (object)
+  - Unnamed: 38 (str)
+  - Unnamed: 39 (object)
+  - Unnamed: 40 (object)
+  - Unnamed: 41 (object)
+  - Unnamed: 42 (object)
+  - Unnamed: 43 (str)
+  - Unnamed: 44 (object)
+  - Unnamed: 45 (str)
+  - Unnamed: 46 (str)
+  - Unnamed: 47 (object)
+  - Unnamed: 48 (str)
+  - Unnamed: 49 (object)
+  - Unnamed: 50 (str)
+  - Unnamed: 51 (object)
+  - Unnamed: 52 (object)
+  - Unnamed: 53 (object)
+  - Unnamed: 54 (str)
+  - Unnamed: 55 (str)
+  - Unnamed: 56 (str)
+
+First 5 rows:
+  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín\nSeguimiento - Capa Interna Unnamed: 1 Unnamed: 2              Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6                                                                                                               Unnamed: 7 Unnamed: 8 Unnamed: 9                    Unnamed: 10 Unnamed: 11 Unnamed: 12 Unnamed: 13 Unnamed: 14 Unnamed: 15 Unnamed: 16         Unnamed: 17 Unnamed: 18 Unnamed: 19 Unnamed: 20 Unnamed: 21 Unnamed: 22 Unnamed: 23 Unnamed: 24 Unnamed: 25 Unnamed: 26 Unnamed: 27 Unnamed: 28 Unnamed: 29 Unnamed: 30 Unnamed: 31 Unnamed: 32 Unnamed: 33 Unnamed: 34 Unnamed: 35         Unnamed: 36 Unnamed: 37 Unnamed: 38 Unnamed: 39 Unnamed: 40 Unnamed: 41 Unnamed: 42 Unnamed: 43   Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47 Unnamed: 48               Unnamed: 49 Unnamed: 50 Unnamed: 51 Unnamed: 52 Unnamed: 53 Unnamed: 54            Unnamed: 55         Unnamed: 56
+0                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN                 NaN
+1                                                                                                                            PERIODO DEL SEGUIMIENTO:        NaN         De                   Enero   Periodo:       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN                 NaN
+2                                                                                                                                                 NaN        NaN          A               Diciembre        NaN       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN                 NaN
+3                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN                 NaN
+4                                                                                                                        Plan de Desarrollo Distrital        NaN        NaN  Identificación general        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN  Características del Indicador         NaN         NaN         NaN         NaN         NaN         NaN  Horizonte temporal         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN  Territorialización         NaN         NaN         NaN         NaN         NaN         NaN         NaN  Responsables         NaN         NaN         NaN         NaN  Seguimiento presupuestal         NaN         NaN         NaN         NaN         NaN  Aprendizaje reflexivo  Observación (juli)
+
+Potential Categorical Columns (Cardinality < 20):
+  - Unnamed: 5: [nan 2025 'Subdimensión'
+ 'Apoyo público-administrativo a la participación ciudadana'
+ 'Reconocimiento social, político e institucional'
+ 'Relacionamiento entre actores sociales, políticos e institucionales'
+ 'Articulación interinstitucional'
+ 'Surgimiento y renovación de actores, sectores y agendas de la participación'
+ 'Habilidades y competencias para el ejercicio de la ciudadanía y los liderazgos'
+ 'Confianza social y política' 'Comunicación pública y gobierno abierto'
+ 'Marco estratégico para la participación ciudadana'
+ 'Gestión de la información y el conocimiento'
+ 'Agenciamiento ciudadano e interés en los asuntos públicos'
+ 'Legitimidad de los liderazgos']
+  - Unnamed: 16: [nan 'Fecha/periodo de actualización' '24 semanas' '24 semanas '
+ datetime.datetime(2025, 6, 30, 0, 0) datetime.datetime(2025, 9, 4, 0, 0)
+ datetime.datetime(2025, 9, 5, 0, 0) datetime.datetime(2025, 4, 9, 0, 0)
+ 'Trimestral' 'Mensual' datetime.datetime(2025, 5, 12, 0, 0)
+ datetime.datetime(2025, 5, 14, 0, 0)
+ datetime.datetime(2025, 12, 31, 0, 0) '31 de marzo de 2025'
+ datetime.datetime(2025, 2, 28, 0, 0) 'Anual'
+ datetime.datetime(2024, 4, 9, 0, 0) datetime.datetime(2025, 3, 30, 0, 0)
+ datetime.datetime(2025, 7, 3, 0, 0) 'Enero - Marzo ']
+  - Unnamed: 18: [nan 'Año base' 2023 167 2024 'No aplica' 2025 0]
+  - Unnamed: 21: [nan 'Año meta' 2025 2024]
+  - Unnamed: 30: [nan 'Trimestre III - 2025' 'Resultado' 'No aplica a la fecha' 0]
+  - Unnamed: 33: [nan 'Trimestre IV - 2025' 'Resultado' 'No aplica a la fecha' 0]
+  - Unnamed: 37: [nan 'LGBT' 'x' 'No aplica' 'No aplica ' 'No aplica a la fecha' 2 0 369 85
+ 101 'X' 3]
+  - Unnamed: 39: [nan 'Discapacidad' 'x' 'No aplica' 'No aplica ' 'No aplica a la fecha' 1
+ 25 6952 102 135 5 'X' 3]
+  - Unnamed: 40: [nan 'Afro' 'x' 'No aplica' 'No aplica ' 'No aplica a la fecha' 10 0 390
+ 87 45 17 'X' 2 8]
+  - Unnamed: 41: [nan 'Indígena' 'x' 'No aplica' 'No aplica ' 'No aplica a la fecha' 2 0 39
+ 3]
+  - Unnamed: 42: [nan 'Víctimas' 'x' 'No aplica' 'No aplica ' 'No aplica a la fecha' 28 0
+ 425 5 16 'X' 3 9]
+  - Unnamed: 44: [nan 'Responsables' 'Unidades y dependencias responsables de la ejecución'
+ 'Código Dependencia Responsable (reporte)' 954 713 724 711 723 761 722
+ 725 712 706]
+  - Unnamed: 47: [nan 'Código Dependencia Responsable (misional)' 954 713 724 711 723 761
+ 722 725 712 706]
+
+--- Analysis of Sheet: CUADRO DE SEGUIMIENTO ---
+Dimensions: (38, 10)
+Columns:
+  - REPROTE MISE-PC  ULTIMO TRIMESTRE 2024 (str)
+  - Unnamed: 1 (str)
+  - Unnamed: 2 (str)
+  - Unnamed: 3 (str)
+  - Unnamed: 4 (str)
+  - Unnamed: 5 (str)
+  - Unnamed: 6 (str)
+  - Unnamed: 7 (str)
+  - Unnamed: 8 (str)
+  - Unnamed: 9 (str)
+
+First 5 rows:
+  REPROTE MISE-PC  ULTIMO TRIMESTRE 2024 Unnamed: 1 Unnamed: 2      Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6        Unnamed: 7 Unnamed: 8         Unnamed: 9
+0                                    NaN        NaN        NaN             NaN        NaN        NaN        NaN  SOLO HASTA MARZO        NaN                NaN
+1                              CONCEPTOS     ETNIAS        DAP  G.HUMANA Y S.C  INCLUSIÓN    CULTURA    MUJERES          JUVENTUD  EDUCACIÓN  PAZ Y CONVIVENCIA
+2                              Indicador         SI         SI              SI         SI         SI         SI                SI         SI                 SI
+3                 Fuente de verificación         SI         SI              SI         SI         SI         SI                SI         SI                 NO
+4              Desagregación Poblacional         NO         SI              NO         NO         SI         SI                SI         SI                 NO
+
+Potential Categorical Columns (Cardinality < 20):
+
+--- Analysis of Sheet: Matriz_MISE_Cultura_300625  ---
+Dimensions: (13, 56)
+Columns:
+  - Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín
+Seguimiento - Capa Interna (str)
+  - Unnamed: 1 (str)
+  - Unnamed: 2 (str)
+  - Unnamed: 3 (object)
+  - Unnamed: 4 (str)
+  - Unnamed: 5 (object)
+  - Unnamed: 6 (str)
+  - Unnamed: 7 (str)
+  - Unnamed: 8 (str)
+  - Unnamed: 9 (str)
+  - Unnamed: 10 (str)
+  - Unnamed: 11 (str)
+  - Unnamed: 12 (str)
+  - Unnamed: 13 (str)
+  - Unnamed: 14 (str)
+  - Unnamed: 15 (str)
+  - Unnamed: 16 (object)
+  - Unnamed: 17 (object)
+  - Unnamed: 18 (object)
+  - Unnamed: 19 (object)
+  - Unnamed: 20 (object)
+  - Unnamed: 21 (object)
+  - Unnamed: 22 (str)
+  - Unnamed: 23 (str)
+  - Unnamed: 24 (object)
+  - Unnamed: 25 (str)
+  - Unnamed: 26 (str)
+  - Unnamed: 27 (object)
+  - Unnamed: 28 (str)
+  - Unnamed: 29 (str)
+  - Unnamed: 30 (str)
+  - Unnamed: 31 (str)
+  - Unnamed: 32 (str)
+  - Unnamed: 33 (str)
+  - Unnamed: 34 (str)
+  - Unnamed: 35 (str)
+  - Unnamed: 36 (str)
+  - Unnamed: 37 (str)
+  - Unnamed: 38 (str)
+  - Unnamed: 39 (str)
+  - Unnamed: 40 (str)
+  - Unnamed: 41 (str)
+  - Unnamed: 42 (str)
+  - Unnamed: 43 (str)
+  - Unnamed: 44 (object)
+  - Unnamed: 45 (str)
+  - Unnamed: 46 (str)
+  - Unnamed: 47 (object)
+  - Unnamed: 48 (str)
+  - Unnamed: 49 (object)
+  - Unnamed: 50 (str)
+  - Unnamed: 51 (str)
+  - Unnamed: 52 (object)
+  - Unnamed: 53 (object)
+  - Unnamed: 54 (str)
+  - Unnamed: 55 (str)
+
+First 5 rows:
+  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín\nSeguimiento - Capa Interna Unnamed: 1 Unnamed: 2              Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6                                                                                                               Unnamed: 7 Unnamed: 8 Unnamed: 9                    Unnamed: 10 Unnamed: 11 Unnamed: 12 Unnamed: 13 Unnamed: 14 Unnamed: 15 Unnamed: 16         Unnamed: 17 Unnamed: 18 Unnamed: 19 Unnamed: 20 Unnamed: 21 Unnamed: 22 Unnamed: 23 Unnamed: 24 Unnamed: 25 Unnamed: 26 Unnamed: 27 Unnamed: 28 Unnamed: 29 Unnamed: 30 Unnamed: 31 Unnamed: 32 Unnamed: 33 Unnamed: 34 Unnamed: 35         Unnamed: 36 Unnamed: 37 Unnamed: 38 Unnamed: 39 Unnamed: 40 Unnamed: 41 Unnamed: 42 Unnamed: 43   Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47 Unnamed: 48               Unnamed: 49 Unnamed: 50 Unnamed: 51 Unnamed: 52 Unnamed: 53 Unnamed: 54            Unnamed: 55
+0                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+1                                                                                                                            PERIODO DEL SEGUIMIENTO:        NaN         De                   Enero   Periodo:       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+2                                                                                                                                                 NaN        NaN          A               Diciembre        NaN       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+3                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+4                                                                                                                        Plan de Desarrollo Distrital        NaN        NaN  Identificación general        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN  Características del Indicador         NaN         NaN         NaN         NaN         NaN         NaN  Horizonte temporal         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN  Territorialización         NaN         NaN         NaN         NaN         NaN         NaN         NaN  Responsables         NaN         NaN         NaN         NaN  Seguimiento presupuestal         NaN         NaN         NaN         NaN         NaN  Aprendizaje reflexivo
+
+Potential Categorical Columns (Cardinality < 20):
+  - Unnamed: 3: [nan 'Enero' 'Diciembre' 'Identificación general' 'Código Indicador' 411]
+  - Unnamed: 5: [nan 2025 'Subdimensión'
+ 'Relacionamiento entre actores sociales, políticos e institucionales']
+  - Unnamed: 16: [nan 'Fecha/periodo de actualización' datetime.datetime(2025, 6, 30, 0, 0)]
+  - Unnamed: 17: [nan 'Horizonte temporal' 'Línea base' 167]
+  - Unnamed: 18: [nan 'Año base' 167]
+  - Unnamed: 19: [nan 'Unidad de medida de la línea base' 125 42]
+  - Unnamed: 20: [nan 'Meta del indicador' 167]
+  - Unnamed: 21: [nan 'Año meta' 2025]
+  - Unnamed: 24: [nan 'Trimestre I - 2025' 'Resultado' 3]
+  - Unnamed: 27: [nan 'Trimestre II - 2025' 'Resultado' 48]
+  - Unnamed: 44: [nan 'Responsables' 'Unidades y dependencias responsables de la ejecución'
+ 'Código Dependencia Responsable (reporte)' 713]
+  - Unnamed: 47: [nan 'Código Dependencia Responsable (misional)' 713]
+  - Unnamed: 49: [nan 'Seguimiento presupuestal' 'Inversión por producto'
+ 'Código del Proyecto \n' 20096]
+  - Unnamed: 52: [nan 'Presupuesto programado ' 4000000000]
+  - Unnamed: 53: [nan 'Presupuesto ejecutado' 500000000]
+
+--- Analysis of Sheet: Matriz_MISE_DAP_300625  ---
+Dimensions: (16, 56)
+Columns:
+  - Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín
+Seguimiento - Capa Interna (str)
+  - Unnamed: 1 (str)
+  - Unnamed: 2 (str)
+  - Unnamed: 3 (object)
+  - Unnamed: 4 (str)
+  - Unnamed: 5 (object)
+  - Unnamed: 6 (str)
+  - Unnamed: 7 (str)
+  - Unnamed: 8 (str)
+  - Unnamed: 9 (str)
+  - Unnamed: 10 (str)
+  - Unnamed: 11 (str)
+  - Unnamed: 12 (str)
+  - Unnamed: 13 (str)
+  - Unnamed: 14 (str)
+  - Unnamed: 15 (str)
+  - Unnamed: 16 (str)
+  - Unnamed: 17 (object)
+  - Unnamed: 18 (object)
+  - Unnamed: 19 (str)
+  - Unnamed: 20 (object)
+  - Unnamed: 21 (object)
+  - Unnamed: 22 (str)
+  - Unnamed: 23 (str)
+  - Unnamed: 24 (object)
+  - Unnamed: 25 (str)
+  - Unnamed: 26 (str)
+  - Unnamed: 27 (object)
+  - Unnamed: 28 (str)
+  - Unnamed: 29 (str)
+  - Unnamed: 30 (object)
+  - Unnamed: 31 (str)
+  - Unnamed: 32 (str)
+  - Unnamed: 33 (str)
+  - Unnamed: 34 (str)
+  - Unnamed: 35 (str)
+  - Unnamed: 36 (str)
+  - Unnamed: 37 (str)
+  - Unnamed: 38 (object)
+  - Unnamed: 39 (str)
+  - Unnamed: 40 (str)
+  - Unnamed: 41 (object)
+  - Unnamed: 42 (str)
+  - Unnamed: 43 (str)
+  - Unnamed: 44 (object)
+  - Unnamed: 45 (str)
+  - Unnamed: 46 (str)
+  - Unnamed: 47 (object)
+  - Unnamed: 48 (str)
+  - Unnamed: 49 (object)
+  - Unnamed: 50 (str)
+  - Unnamed: 51 (str)
+  - Unnamed: 52 (str)
+  - Unnamed: 53 (object)
+  - Unnamed: 54 (str)
+  - Unnamed: 55 (str)
+
+First 5 rows:
+  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín\nSeguimiento - Capa Interna Unnamed: 1 Unnamed: 2              Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6                                                                                                               Unnamed: 7 Unnamed: 8 Unnamed: 9                    Unnamed: 10 Unnamed: 11 Unnamed: 12 Unnamed: 13 Unnamed: 14 Unnamed: 15 Unnamed: 16         Unnamed: 17 Unnamed: 18 Unnamed: 19 Unnamed: 20 Unnamed: 21 Unnamed: 22 Unnamed: 23 Unnamed: 24 Unnamed: 25 Unnamed: 26 Unnamed: 27 Unnamed: 28 Unnamed: 29 Unnamed: 30 Unnamed: 31 Unnamed: 32 Unnamed: 33 Unnamed: 34 Unnamed: 35         Unnamed: 36 Unnamed: 37 Unnamed: 38 Unnamed: 39 Unnamed: 40 Unnamed: 41 Unnamed: 42 Unnamed: 43   Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47 Unnamed: 48               Unnamed: 49 Unnamed: 50 Unnamed: 51 Unnamed: 52 Unnamed: 53 Unnamed: 54            Unnamed: 55
+0                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+1                                                                                                                            PERIODO DEL SEGUIMIENTO:        NaN         De                   Enero   Periodo:       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+2                                                                                                                                                 NaN        NaN          A               Diciembre        NaN       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+3                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+4                                                                                                                        Plan de Desarrollo Distrital        NaN        NaN  Identificación general        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN  Características del Indicador         NaN         NaN         NaN         NaN         NaN         NaN  Horizonte temporal         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN  Territorialización         NaN         NaN         NaN         NaN         NaN         NaN         NaN  Responsables         NaN         NaN         NaN         NaN  Seguimiento presupuestal         NaN         NaN         NaN         NaN         NaN  Aprendizaje reflexivo
+
+Potential Categorical Columns (Cardinality < 20):
+  - Unnamed: 3: [nan 'Enero' 'Diciembre' 'Identificación general' 'Código Indicador' 451
+ 452 453 454 455 457 458 459 460]
+  - Unnamed: 5: [nan 2025 'Subdimensión'
+ 'Habilidades y competencias para el ejercicio de la ciudadanía y los liderazgos'
+ 'Articulación interinstitucional'
+ 'Apoyo público-administrativo a la participación ciudadana'
+ 'Comunicación pública y gobierno abierto'
+ 'Gestión de la información y el conocimiento'
+ 'Marco estratégico para la participación ciudadana']
+  - Unnamed: 17: [nan 'Horizonte temporal' 'Línea base' ' NAS, One Drive' 0 2]
+  - Unnamed: 18: [nan 'Año base' 2025 2024 0 2023]
+  - Unnamed: 20: [nan 'Meta del indicador' 1 0.25 0 2]
+  - Unnamed: 21: [nan 'Año meta' 2025 2024]
+  - Unnamed: 24: [nan 'Trimestre I - 2025' 'Resultado' 0 0.0625 0.25 'No aplica']
+  - Unnamed: 27: [nan 'Trimestre II - 2025' 'Resultado' 0.5 0.0625 0 0.25 'No aplica'
+ 'Entrega de insumos para el seguimiento al Plan de Desarrollo con corte a diciembre de 2024']
+  - Unnamed: 30: [nan 'Trimestre III - 2025' 'Resultado' 0.5 0.125 0]
+  - Unnamed: 38: [nan 'Rangos etarios' 'No aplica' 761]
+  - Unnamed: 41: [nan 'Indígena' 'No aplica' 761]
+  - Unnamed: 44: [nan 'Responsables' 'Unidades y dependencias responsables de la ejecución'
+ 'Código Dependencia Responsable (reporte)' 761]
+  - Unnamed: 47: [nan 'Código Dependencia Responsable (misional)' 761]
+  - Unnamed: 49: [nan 'Seguimiento presupuestal' 'Inversión por producto'
+ 'Código del Proyecto \n' 240313 240314 'No aplica']
+  - Unnamed: 53: [nan 'Presupuesto ejecutado' 546663000 'No aplica' 708447000
+ 142203000.00000003 20223000]
+
+--- Analysis of Sheet: Matriz_MISE_Educación_300625 ---
+Dimensions: (14, 56)
+Columns:
+  - Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín
+Seguimiento - Capa Interna (str)
+  - Unnamed: 1 (str)
+  - Unnamed: 2 (str)
+  - Unnamed: 3 (object)
+  - Unnamed: 4 (str)
+  - Unnamed: 5 (object)
+  - Unnamed: 6 (str)
+  - Unnamed: 7 (str)
+  - Unnamed: 8 (str)
+  - Unnamed: 9 (str)
+  - Unnamed: 10 (str)
+  - Unnamed: 11 (str)
+  - Unnamed: 12 (str)
+  - Unnamed: 13 (str)
+  - Unnamed: 14 (str)
+  - Unnamed: 15 (str)
+  - Unnamed: 16 (str)
+  - Unnamed: 17 (str)
+  - Unnamed: 18 (str)
+  - Unnamed: 19 (str)
+  - Unnamed: 20 (object)
+  - Unnamed: 21 (object)
+  - Unnamed: 22 (str)
+  - Unnamed: 23 (str)
+  - Unnamed: 24 (object)
+  - Unnamed: 25 (str)
+  - Unnamed: 26 (str)
+  - Unnamed: 27 (object)
+  - Unnamed: 28 (str)
+  - Unnamed: 29 (str)
+  - Unnamed: 30 (str)
+  - Unnamed: 31 (str)
+  - Unnamed: 32 (str)
+  - Unnamed: 33 (str)
+  - Unnamed: 34 (str)
+  - Unnamed: 35 (str)
+  - Unnamed: 36 (str)
+  - Unnamed: 37 (str)
+  - Unnamed: 38 (str)
+  - Unnamed: 39 (str)
+  - Unnamed: 40 (str)
+  - Unnamed: 41 (str)
+  - Unnamed: 42 (str)
+  - Unnamed: 43 (str)
+  - Unnamed: 44 (object)
+  - Unnamed: 45 (str)
+  - Unnamed: 46 (str)
+  - Unnamed: 47 (object)
+  - Unnamed: 48 (str)
+  - Unnamed: 49 (object)
+  - Unnamed: 50 (str)
+  - Unnamed: 51 (object)
+  - Unnamed: 52 (object)
+  - Unnamed: 53 (object)
+  - Unnamed: 54 (str)
+  - Unnamed: 55 (str)
+
+First 5 rows:
+  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín\nSeguimiento - Capa Interna Unnamed: 1 Unnamed: 2              Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6                                                                                                               Unnamed: 7 Unnamed: 8 Unnamed: 9                    Unnamed: 10 Unnamed: 11 Unnamed: 12 Unnamed: 13 Unnamed: 14 Unnamed: 15 Unnamed: 16         Unnamed: 17 Unnamed: 18 Unnamed: 19 Unnamed: 20 Unnamed: 21 Unnamed: 22 Unnamed: 23                            Unnamed: 24 Unnamed: 25 Unnamed: 26 Unnamed: 27 Unnamed: 28 Unnamed: 29 Unnamed: 30 Unnamed: 31 Unnamed: 32 Unnamed: 33 Unnamed: 34 Unnamed: 35         Unnamed: 36 Unnamed: 37 Unnamed: 38 Unnamed: 39 Unnamed: 40 Unnamed: 41 Unnamed: 42 Unnamed: 43   Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47 Unnamed: 48               Unnamed: 49 Unnamed: 50 Unnamed: 51 Unnamed: 52 Unnamed: 53 Unnamed: 54            Unnamed: 55
+0                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                    NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+1                                                                                                                            PERIODO DEL SEGUIMIENTO:        NaN         De                   Enero   Periodo:       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                    NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+2                                                                                                                                                 NaN        NaN          A               Diciembre        NaN       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                    NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+3                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                    NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+4                                                                                                                        Plan de Desarrollo Distrital        NaN        NaN  Identificación general        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN  Características del Indicador         NaN         NaN         NaN         NaN         NaN         NaN  Horizonte temporal         NaN         NaN         NaN         NaN         NaN         NaN  Registro del seguimiento - trimestral         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN  Territorialización         NaN         NaN         NaN         NaN         NaN         NaN         NaN  Responsables         NaN         NaN         NaN         NaN  Seguimiento presupuestal         NaN         NaN         NaN         NaN         NaN  Aprendizaje reflexivo
+
+Potential Categorical Columns (Cardinality < 20):
+  - Unnamed: 3: [nan 'Enero' 'Diciembre' 'Identificación general' 'Código Indicador' 421
+ 422 423 424 426 427 428]
+  - Unnamed: 5: [nan 2025 'Subdimensión' 'Confianza social y política'
+ 'Surgimiento y renovación de actores, sectores y agendas de la participación'
+ 'Habilidades y competencias para el ejercicio de la ciudadanía y los liderazgos']
+  - Unnamed: 20: [nan 'Meta del indicador' 1 1200 250]
+  - Unnamed: 21: [nan 'Año meta' 2025]
+  - Unnamed: 24: [nan 'Registro del seguimiento - trimestral' 'Trimestre I - 2025'
+ 'Resultado' 0.5307017543859649 0.4692982456140351 0.6798245614035088 0
+ 0.9824561403508771]
+  - Unnamed: 27: [nan 'Trimestre II - 2025' 'Resultado' 0.9473684210526315 1
+ 0.8552631578947368 662 118 0]
+  - Unnamed: 44: [nan 'Responsables' 'Unidades y dependencias responsables de la ejecución'
+ 'Código Dependencia Responsable (reporte)' 711]
+  - Unnamed: 47: [nan 'Código Dependencia Responsable (misional)' 711]
+  - Unnamed: 49: [nan 'Seguimiento presupuestal' 'Inversión por producto'
+ 'Código del Proyecto \n' 240059 240051]
+  - Unnamed: 51: [nan 'Meta del Proyecto' 1 1200 250]
+  - Unnamed: 52: [nan 'Presupuesto programado ' 20134121071 300723032]
+  - Unnamed: 53: [nan 'Presupuesto ejecutado' 20066308762 0]
+
+--- Analysis of Sheet: Matriz_MISE_Étnica_300625  ---
+Dimensions: (15, 56)
+Columns:
+  - Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín
+Seguimiento - Capa Interna (str)
+  - Unnamed: 1 (str)
+  - Unnamed: 2 (str)
+  - Unnamed: 3 (object)
+  - Unnamed: 4 (str)
+  - Unnamed: 5 (object)
+  - Unnamed: 6 (str)
+  - Unnamed: 7 (str)
+  - Unnamed: 8 (str)
+  - Unnamed: 9 (str)
+  - Unnamed: 10 (str)
+  - Unnamed: 11 (str)
+  - Unnamed: 12 (str)
+  - Unnamed: 13 (str)
+  - Unnamed: 14 (str)
+  - Unnamed: 15 (str)
+  - Unnamed: 16 (str)
+  - Unnamed: 17 (object)
+  - Unnamed: 18 (object)
+  - Unnamed: 19 (str)
+  - Unnamed: 20 (object)
+  - Unnamed: 21 (object)
+  - Unnamed: 22 (str)
+  - Unnamed: 23 (str)
+  - Unnamed: 24 (object)
+  - Unnamed: 25 (str)
+  - Unnamed: 26 (str)
+  - Unnamed: 27 (object)
+  - Unnamed: 28 (str)
+  - Unnamed: 29 (str)
+  - Unnamed: 30 (object)
+  - Unnamed: 31 (str)
+  - Unnamed: 32 (str)
+  - Unnamed: 33 (str)
+  - Unnamed: 34 (str)
+  - Unnamed: 35 (str)
+  - Unnamed: 36 (str)
+  - Unnamed: 37 (str)
+  - Unnamed: 38 (str)
+  - Unnamed: 39 (str)
+  - Unnamed: 40 (str)
+  - Unnamed: 41 (str)
+  - Unnamed: 42 (str)
+  - Unnamed: 43 (str)
+  - Unnamed: 44 (object)
+  - Unnamed: 45 (str)
+  - Unnamed: 46 (str)
+  - Unnamed: 47 (object)
+  - Unnamed: 48 (str)
+  - Unnamed: 49 (object)
+  - Unnamed: 50 (str)
+  - Unnamed: 51 (str)
+  - Unnamed: 52 (object)
+  - Unnamed: 53 (object)
+  - Unnamed: 54 (str)
+  - Unnamed: 55 (str)
+
+First 5 rows:
+  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín\nSeguimiento - Capa Interna Unnamed: 1 Unnamed: 2              Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6                                                                                                               Unnamed: 7 Unnamed: 8 Unnamed: 9                    Unnamed: 10 Unnamed: 11 Unnamed: 12 Unnamed: 13 Unnamed: 14 Unnamed: 15 Unnamed: 16         Unnamed: 17 Unnamed: 18 Unnamed: 19 Unnamed: 20 Unnamed: 21 Unnamed: 22 Unnamed: 23 Unnamed: 24 Unnamed: 25 Unnamed: 26 Unnamed: 27 Unnamed: 28 Unnamed: 29 Unnamed: 30 Unnamed: 31 Unnamed: 32 Unnamed: 33 Unnamed: 34 Unnamed: 35         Unnamed: 36 Unnamed: 37 Unnamed: 38 Unnamed: 39 Unnamed: 40 Unnamed: 41 Unnamed: 42 Unnamed: 43   Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47 Unnamed: 48               Unnamed: 49 Unnamed: 50 Unnamed: 51 Unnamed: 52 Unnamed: 53 Unnamed: 54            Unnamed: 55
+0                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+1                                                                                                                            PERIODO DEL SEGUIMIENTO:        NaN         De                   Enero   Periodo:       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+2                                                                                                                                                 NaN        NaN          A               Diciembre        NaN       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+3                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+4                                                                                                                        Plan de Desarrollo Distrital        NaN        NaN  Identificación general        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN  Características del Indicador         NaN         NaN         NaN         NaN         NaN         NaN  Horizonte temporal         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN  Territorialización         NaN         NaN         NaN         NaN         NaN         NaN         NaN  Responsables         NaN         NaN         NaN         NaN  Seguimiento presupuestal         NaN         NaN         NaN         NaN         NaN  Aprendizaje reflexivo
+
+Potential Categorical Columns (Cardinality < 20):
+  - Unnamed: 3: [nan 'Enero' 'Diciembre' 'Identificación general' 'Código Indicador' 401
+ 402 403 404 405 407]
+  - Unnamed: 5: [nan 2025 'Subdimensión'
+ 'Apoyo público-administrativo a la participación ciudadana'
+ 'Reconocimiento social, político e institucional'
+ 'Relacionamiento entre actores sociales, políticos e institucionales'
+ 'Articulación interinstitucional']
+  - Unnamed: 17: [nan 'Horizonte temporal' 'Línea base' 1]
+  - Unnamed: 18: [nan 'Año base' 2023]
+  - Unnamed: 20: [nan 'Meta del indicador' 1 10 3 5 4 6]
+  - Unnamed: 21: [nan 'Año meta' 2025]
+  - Unnamed: 24: [nan 'Trimestre I - 2025' 'Resultado' 0 1]
+  - Unnamed: 27: [nan 'Trimestre II - 2025' 'Resultado' 0 4 1]
+  - Unnamed: 30: [nan 'Trimestre III - 2025' 'Resultado' 0 5 1]
+  - Unnamed: 44: [nan 'Responsables' 'Unidades y dependencias responsables de la ejecución'
+ 'Código Dependencia Responsable (reporte)' 954]
+  - Unnamed: 47: [nan 'Código Dependencia Responsable (misional)' 954]
+  - Unnamed: 49: [nan 'Seguimiento presupuestal' 'Inversión por producto'
+ 'Código del Proyecto \n' 240031 240032]
+  - Unnamed: 52: [nan 'Presupuesto programado ' 0 26877360 233979]
+  - Unnamed: 53: [nan 'Presupuesto ejecutado' 0 26877360 233979]
+
+--- Analysis of Sheet: Matriz_MISE_Juventud_300325 ---
+Dimensions: (13, 56)
+Columns:
+  - Unnamed: 0 (str)
+  - Unnamed: 1 (str)
+  - Unnamed: 2 (str)
+  - Unnamed: 3 (object)
+  - Unnamed: 4 (str)
+  - Unnamed: 5 (object)
+  - Unnamed: 6 (str)
+  - Unnamed: 7 (str)
+  - Unnamed: 8 (str)
+  - Unnamed: 9 (str)
+  - Unnamed: 10 (str)
+  - Unnamed: 11 (str)
+  - Unnamed: 12 (str)
+  - Unnamed: 13 (str)
+  - Unnamed: 14 (str)
+  - Unnamed: 15 (str)
+  - Unnamed: 16 (object)
+  - Unnamed: 17 (object)
+  - Unnamed: 18 (object)
+  - Unnamed: 19 (str)
+  - Unnamed: 20 (object)
+  - Unnamed: 21 (object)
+  - Unnamed: 22 (str)
+  - Unnamed: 23 (str)
+  - Unnamed: 24 (object)
+  - Unnamed: 25 (str)
+  - Unnamed: 26 (str)
+  - Unnamed: 27 (str)
+  - Unnamed: 28 (str)
+  - Unnamed: 29 (str)
+  - Unnamed: 30 (str)
+  - Unnamed: 31 (str)
+  - Unnamed: 32 (str)
+  - Unnamed: 33 (str)
+  - Unnamed: 34 (str)
+  - Unnamed: 35 (str)
+  - Unnamed: 36 (str)
+  - Unnamed: 37 (str)
+  - Unnamed: 38 (str)
+  - Unnamed: 39 (str)
+  - Unnamed: 40 (str)
+  - Unnamed: 41 (str)
+  - Unnamed: 42 (str)
+  - Unnamed: 43 (str)
+  - Unnamed: 44 (object)
+  - Unnamed: 45 (str)
+  - Unnamed: 46 (str)
+  - Unnamed: 47 (object)
+  - Unnamed: 48 (str)
+  - Unnamed: 49 (object)
+  - Unnamed: 50 (str)
+  - Unnamed: 51 (object)
+  - Unnamed: 52 (object)
+  - Unnamed: 53 (object)
+  - Unnamed: 54 (str)
+  - Unnamed: 55 (str)
+
+First 5 rows:
+                                                                                                                                            Unnamed: 0 Unnamed: 1 Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6                                                                                                               Unnamed: 7 Unnamed: 8 Unnamed: 9 Unnamed: 10 Unnamed: 11 Unnamed: 12 Unnamed: 13 Unnamed: 14 Unnamed: 15 Unnamed: 16 Unnamed: 17 Unnamed: 18 Unnamed: 19 Unnamed: 20 Unnamed: 21 Unnamed: 22 Unnamed: 23 Unnamed: 24 Unnamed: 25 Unnamed: 26 Unnamed: 27 Unnamed: 28 Unnamed: 29 Unnamed: 30 Unnamed: 31 Unnamed: 32 Unnamed: 33 Unnamed: 34 Unnamed: 35 Unnamed: 36 Unnamed: 37 Unnamed: 38 Unnamed: 39 Unnamed: 40 Unnamed: 41 Unnamed: 42 Unnamed: 43 Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47 Unnamed: 48 Unnamed: 49 Unnamed: 50 Unnamed: 51 Unnamed: 52 Unnamed: 53 Unnamed: 54 Unnamed: 55
+0  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín\nSeguimiento - Capa Interna        NaN        NaN        NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+1                                                                                                                                                  NaN        NaN        NaN        NaN        NaN        NaN        NaN  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+2                                                                                                                             PERIODO DEL SEGUIMIENTO:        NaN         De      Enero   Periodo:       2025        NaN                                                                                                                      NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+3                                                                                                                                                  NaN        NaN          A  Diciembre        NaN       2025        NaN                                                                                                                      NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+4                                                                                                                                                  NaN        NaN        NaN        NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+
+Potential Categorical Columns (Cardinality < 20):
+  - Unnamed: 3: [nan 'Enero' 'Diciembre' 'Identificación general' 'Código Indicador' 416
+ 417 418 419 420]
+  - Unnamed: 5: [nan 2025 'Subdimensión'
+ 'Surgimiento y renovación de actores, sectores y agendas de la participación'
+ 'Habilidades y competencias para el ejercicio de la ciudadanía y los liderazgos'
+ 'Reconocimiento social, político e institucional'
+ 'Relacionamiento entre actores sociales, políticos e institucionales']
+  - Unnamed: 16: [nan 'Fecha/periodo de actualización' datetime.datetime(2025, 9, 4, 0, 0)
+ datetime.datetime(2025, 9, 5, 0, 0) datetime.datetime(2025, 4, 9, 0, 0)]
+  - Unnamed: 17: [nan 'Horizonte temporal' 'Línea base' 3200 50 1
+ '3 para Sello Joven          12 para Alianza Joven' 1315]
+  - Unnamed: 18: [nan 'Año base' 2024]
+  - Unnamed: 20: [nan 'Meta del indicador' 3200 50 1
+ '3 para Sello Joven      12 para Alianza Joven ' 1295]
+  - Unnamed: 21: [nan 'Año meta' 2025]
+  - Unnamed: 24: [nan 'Registro del seguimiento mensual - trimestral' 'Trimestre I -2025'
+ 'Resultado' '680 atenciones' 0 1
+ 'Tanto el equipo de Sello Joven como Alianzas han adelantado avances en las respectivas articulaciones  '
+ 164]
+  - Unnamed: 44: [nan 'Responsables' 'Unidades y dependencias responsables de la ejecución'
+ 'Código Dependencia Responsable (reporte)' 724]
+  - Unnamed: 47: [nan 'Código Dependencia Responsable (misional)' 724]
+  - Unnamed: 49: [nan 'Seguimiento presupuestal' 'Inversión por producto'
+ 'Código del Proyecto \n' 240362 240361 240363]
+  - Unnamed: 51: [nan 'Meta del Proyecto' 3200 50 1 1295]
+  - Unnamed: 52: [nan 'Presupuesto programado ' 1053930000 365000000 108000000 596789372]
+  - Unnamed: 53: [nan 'Presupuesto ejecutado' 477708579 0 45180452 590797062]
+
+--- Analysis of Sheet: Matriz_MISE_GH_300625 ---
+Dimensions: (10, 48)
+Columns:
+  - Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín
+Seguimiento - Capa Interna (str)
+  - Unnamed: 1 (str)
+  - Unnamed: 2 (str)
+  - Unnamed: 3 (object)
+  - Unnamed: 4 (str)
+  - Unnamed: 5 (object)
+  - Unnamed: 6 (str)
+  - Unnamed: 7 (str)
+  - Unnamed: 8 (str)
+  - Unnamed: 9 (str)
+  - Unnamed: 10 (str)
+  - Unnamed: 11 (str)
+  - Unnamed: 12 (str)
+  - Unnamed: 13 (str)
+  - Unnamed: 14 (str)
+  - Unnamed: 15 (str)
+  - Unnamed: 16 (str)
+  - Unnamed: 17 (object)
+  - Unnamed: 18 (object)
+  - Unnamed: 19 (str)
+  - Unnamed: 20 (object)
+  - Unnamed: 21 (object)
+  - Unnamed: 22 (str)
+  - Unnamed: 23 (str)
+  - Unnamed: 24 (object)
+  - Unnamed: 25 (str)
+  - Unnamed: 26 (str)
+  - Unnamed: 27 (object)
+  - Unnamed: 28 (str)
+  - Unnamed: 29 (str)
+  - Unnamed: 30 (object)
+  - Unnamed: 31 (str)
+  - Unnamed: 32 (str)
+  - Unnamed: 33 (str)
+  - Unnamed: 34 (str)
+  - Unnamed: 35 (str)
+  - Unnamed: 36 (object)
+  - Unnamed: 37 (str)
+  - Unnamed: 38 (str)
+  - Unnamed: 39 (object)
+  - Unnamed: 40 (str)
+  - Unnamed: 41 (object)
+  - Unnamed: 42 (str)
+  - Unnamed: 43 (object)
+  - Unnamed: 44 (object)
+  - Unnamed: 45 (object)
+  - Unnamed: 46 (str)
+  - Unnamed: 47 (str)
+
+First 5 rows:
+  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín\nSeguimiento - Capa Interna Unnamed: 1 Unnamed: 2              Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6                                                                                                               Unnamed: 7 Unnamed: 8 Unnamed: 9                    Unnamed: 10 Unnamed: 11 Unnamed: 12 Unnamed: 13 Unnamed: 14 Unnamed: 15 Unnamed: 16         Unnamed: 17 Unnamed: 18 Unnamed: 19 Unnamed: 20 Unnamed: 21 Unnamed: 22 Unnamed: 23                            Unnamed: 24 Unnamed: 25 Unnamed: 26 Unnamed: 27 Unnamed: 28 Unnamed: 29 Unnamed: 30 Unnamed: 31 Unnamed: 32 Unnamed: 33 Unnamed: 34 Unnamed: 35   Unnamed: 36 Unnamed: 37 Unnamed: 38 Unnamed: 39 Unnamed: 40               Unnamed: 41 Unnamed: 42 Unnamed: 43 Unnamed: 44 Unnamed: 45 Unnamed: 46            Unnamed: 47
+0                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                    NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+1                                                                                                                            PERIODO DEL SEGUIMIENTO:        NaN         De                   Enero   Periodo:       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                    NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+2                                                                                                                                                 NaN        NaN          A               Diciembre        NaN       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                    NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+3                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                    NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+4                                                                                                                        Plan de Desarrollo Distrital        NaN        NaN  Identificación general        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN  Características del Indicador         NaN         NaN         NaN         NaN         NaN         NaN  Horizonte temporal         NaN         NaN         NaN         NaN         NaN         NaN  Registro del seguimiento - trimestral         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN  Responsables         NaN         NaN         NaN         NaN  Seguimiento presupuestal         NaN         NaN         NaN         NaN         NaN  Aprendizaje reflexivo
+
+Potential Categorical Columns (Cardinality < 20):
+  - Unnamed: 3: [nan 'Enero' 'Diciembre' 'Identificación general' 'Código Indicador' 429
+ 430 431]
+  - Unnamed: 5: [nan 2025 'Subdimensión' 'Comunicación pública y gobierno abierto']
+  - Unnamed: 17: [nan 'Horizonte temporal' 'Línea base' 500000]
+  - Unnamed: 18: [nan 'Año base' 2024]
+  - Unnamed: 20: [nan 'Meta del indicador' 500000]
+  - Unnamed: 21: [nan 'Año meta' 2025]
+  - Unnamed: 24: [nan 'Registro del seguimiento - trimestral' 'Trimestre I - 2025'
+ 'Resultado' 183782 325563 150984]
+  - Unnamed: 27: [nan 'Trimestre II- 2025' 'Resultado' 169464 302657 120444]
+  - Unnamed: 30: [nan 'Trimestre III- 2025' 'Resultado' 353246 628220 271428]
+  - Unnamed: 36: [nan 'Responsables' 'Unidades y dependencias responsables de la ejecución'
+ 'Código Dependencia Responsable (reporte)' 706]
+  - Unnamed: 39: [nan 'Código Dependencia Responsable (misional)' 706]
+  - Unnamed: 41: [nan 'Seguimiento presupuestal' 'Inversión por producto'
+ 'Código del Proyecto \n' 240202]
+  - Unnamed: 43: [nan 'Meta del Proyecto' 17]
+  - Unnamed: 44: [nan 'Presupuesto programado ' 0]
+  - Unnamed: 45: [nan 'Presupuesto ejecutado' 0]
+
+--- Analysis of Sheet: Matriz_MISE_Mujeres_300625 ---
+Dimensions: (15, 56)
+Columns:
+  - Unnamed: 0 (str)
+  - Unnamed: 1 (str)
+  - Unnamed: 2 (str)
+  - Unnamed: 3 (object)
+  - Unnamed: 4 (str)
+  - Unnamed: 5 (object)
+  - Unnamed: 6 (str)
+  - Unnamed: 7 (str)
+  - Unnamed: 8 (str)
+  - Unnamed: 9 (str)
+  - Unnamed: 10 (str)
+  - Unnamed: 11 (str)
+  - Unnamed: 12 (str)
+  - Unnamed: 13 (str)
+  - Unnamed: 14 (str)
+  - Unnamed: 15 (str)
+  - Unnamed: 16 (object)
+  - Unnamed: 17 (object)
+  - Unnamed: 18 (object)
+  - Unnamed: 19 (str)
+  - Unnamed: 20 (object)
+  - Unnamed: 21 (object)
+  - Unnamed: 22 (str)
+  - Unnamed: 23 (str)
+  - Unnamed: 24 (object)
+  - Unnamed: 25 (str)
+  - Unnamed: 26 (str)
+  - Unnamed: 27 (object)
+  - Unnamed: 28 (str)
+  - Unnamed: 29 (str)
+  - Unnamed: 30 (object)
+  - Unnamed: 31 (str)
+  - Unnamed: 32 (str)
+  - Unnamed: 33 (str)
+  - Unnamed: 34 (str)
+  - Unnamed: 35 (str)
+  - Unnamed: 36 (str)
+  - Unnamed: 37 (str)
+  - Unnamed: 38 (str)
+  - Unnamed: 39 (str)
+  - Unnamed: 40 (str)
+  - Unnamed: 41 (str)
+  - Unnamed: 42 (str)
+  - Unnamed: 43 (str)
+  - Unnamed: 44 (object)
+  - Unnamed: 45 (str)
+  - Unnamed: 46 (str)
+  - Unnamed: 47 (object)
+  - Unnamed: 48 (str)
+  - Unnamed: 49 (object)
+  - Unnamed: 50 (str)
+  - Unnamed: 51 (object)
+  - Unnamed: 52 (object)
+  - Unnamed: 53 (object)
+  - Unnamed: 54 (str)
+  - Unnamed: 55 (str)
+
+First 5 rows:
+                                                                                                                                            Unnamed: 0 Unnamed: 1 Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6                                                                                                               Unnamed: 7 Unnamed: 8 Unnamed: 9 Unnamed: 10 Unnamed: 11 Unnamed: 12 Unnamed: 13 Unnamed: 14 Unnamed: 15 Unnamed: 16 Unnamed: 17 Unnamed: 18 Unnamed: 19 Unnamed: 20 Unnamed: 21 Unnamed: 22 Unnamed: 23 Unnamed: 24 Unnamed: 25 Unnamed: 26 Unnamed: 27 Unnamed: 28 Unnamed: 29 Unnamed: 30 Unnamed: 31 Unnamed: 32 Unnamed: 33 Unnamed: 34 Unnamed: 35 Unnamed: 36 Unnamed: 37 Unnamed: 38 Unnamed: 39 Unnamed: 40 Unnamed: 41 Unnamed: 42 Unnamed: 43 Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47 Unnamed: 48 Unnamed: 49 Unnamed: 50 Unnamed: 51 Unnamed: 52 Unnamed: 53 Unnamed: 54 Unnamed: 55
+0  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín\nSeguimiento - Capa Interna        NaN        NaN        NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+1                                                                                                                                                  NaN        NaN        NaN        NaN        NaN        NaN        NaN  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+2                                                                                                                             PERIODO DEL SEGUIMIENTO:        NaN         De      Enero   Periodo:       2025        NaN                                                                                                                      NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+3                                                                                                                                                  NaN        NaN          A  Diciembre        NaN       2025        NaN                                                                                                                      NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+4                                                                                                                                                  NaN        NaN        NaN        NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+
+Potential Categorical Columns (Cardinality < 20):
+  - Unnamed: 3: [nan 'Enero' 'Diciembre' 'Identificación general' 'Código Indicador' 432
+ 433 436 438 439 440]
+  - Unnamed: 5: [nan 2025 'Subdimensión' 'Reconocimiento social, político e institucional'
+ 'Relacionamiento entre actores sociales, políticos e institucionales'
+ 'Habilidades y competencias para el ejercicio de la ciudadanía y los liderazgos'
+ 'Comunicación pública y gobierno abierto'
+ 'Articulación interinstitucional'
+ 'Marco estratégico para la participación ciudadana']
+  - Unnamed: 16: [nan 'Fecha/periodo de actualización' datetime.datetime(2025, 5, 12, 0, 0)
+ datetime.datetime(2025, 12, 31, 0, 0)
+ datetime.datetime(2025, 5, 14, 0, 0) '31 de marzo de 2025'
+ datetime.datetime(2025, 2, 28, 0, 0)]
+  - Unnamed: 17: [nan 'Horizonte temporal' 'Línea base' 9 3 341 5000 'No disponible' 30 1]
+  - Unnamed: 18: [nan 'Año base' 2024 'No aplica' 2023]
+  - Unnamed: 20: [nan 'Meta del indicador' 8 3 '170 mujeres'
+ 'Nueve (9) Centros de Cuidado y Equidad de Género en los cuales se promueven los derechos de las mujeres cuidadoras, entre ellos el derecho a tener voz, participación y representación. '
+ 30 '1 espacio de participación promovido']
+  - Unnamed: 21: [nan 'Año meta' 2025]
+  - Unnamed: 24: [nan 'Registro del seguimiento mensual - trimestral' 'Trimestre I - 2025'
+ 'Resultado' 2 0]
+  - Unnamed: 27: [nan 'Trimestre II - 2025' 'Resultado' 3 0 888 10]
+  - Unnamed: 30: [nan 'Trimestre III - 2025' 'Resultado' 5 0 888 10]
+  - Unnamed: 44: [nan 'Responsables' 'Unidades y dependencias responsables de la ejecución'
+ 'Código Dependencia Responsable (reporte)' 723]
+  - Unnamed: 47: [nan 'Código Dependencia Responsable (misional)' 723]
+  - Unnamed: 49: [nan 'Seguimiento presupuestal' 'Inversión por producto'
+ 'Código del Proyecto \n' 240290 240291 240328 240292]
+  - Unnamed: 51: [nan 'Meta del Proyecto' 8 3 170
+ 'Nueve (9) Centros de Cuidado y Equidad de Género gestionados durante el 2025'
+ 90 1]
+  - Unnamed: 52: [nan 'Presupuesto programado ' 135643360 722454168 141000000 143330184
+ 451002911 431739626 43000000]
+  - Unnamed: 53: [nan 'Presupuesto ejecutado' 30000000 0 133630492 312768502]
+
+--- Analysis of Sheet: Matriz_MISE_PazDH_300625 ---
+Dimensions: (11, 56)
+Columns:
+  - Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín
+Seguimiento - Capa Interna (str)
+  - Unnamed: 1 (str)
+  - Unnamed: 2 (str)
+  - Unnamed: 3 (object)
+  - Unnamed: 4 (str)
+  - Unnamed: 5 (object)
+  - Unnamed: 6 (str)
+  - Unnamed: 7 (str)
+  - Unnamed: 8 (str)
+  - Unnamed: 9 (str)
+  - Unnamed: 10 (str)
+  - Unnamed: 11 (str)
+  - Unnamed: 12 (str)
+  - Unnamed: 13 (str)
+  - Unnamed: 14 (str)
+  - Unnamed: 15 (str)
+  - Unnamed: 16 (object)
+  - Unnamed: 17 (object)
+  - Unnamed: 18 (object)
+  - Unnamed: 19 (str)
+  - Unnamed: 20 (str)
+  - Unnamed: 21 (object)
+  - Unnamed: 22 (str)
+  - Unnamed: 23 (str)
+  - Unnamed: 24 (object)
+  - Unnamed: 25 (str)
+  - Unnamed: 26 (str)
+  - Unnamed: 27 (object)
+  - Unnamed: 28 (str)
+  - Unnamed: 29 (str)
+  - Unnamed: 30 (str)
+  - Unnamed: 31 (str)
+  - Unnamed: 32 (str)
+  - Unnamed: 33 (str)
+  - Unnamed: 34 (str)
+  - Unnamed: 35 (str)
+  - Unnamed: 36 (str)
+  - Unnamed: 37 (object)
+  - Unnamed: 38 (str)
+  - Unnamed: 39 (object)
+  - Unnamed: 40 (object)
+  - Unnamed: 41 (object)
+  - Unnamed: 42 (object)
+  - Unnamed: 43 (str)
+  - Unnamed: 44 (object)
+  - Unnamed: 45 (str)
+  - Unnamed: 46 (str)
+  - Unnamed: 47 (object)
+  - Unnamed: 48 (str)
+  - Unnamed: 49 (object)
+  - Unnamed: 50 (str)
+  - Unnamed: 51 (object)
+  - Unnamed: 52 (str)
+  - Unnamed: 53 (str)
+  - Unnamed: 54 (str)
+  - Unnamed: 55 (str)
+
+First 5 rows:
+  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín\nSeguimiento - Capa Interna Unnamed: 1 Unnamed: 2              Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6                                                                                                               Unnamed: 7 Unnamed: 8 Unnamed: 9                    Unnamed: 10 Unnamed: 11 Unnamed: 12 Unnamed: 13 Unnamed: 14 Unnamed: 15 Unnamed: 16         Unnamed: 17 Unnamed: 18 Unnamed: 19 Unnamed: 20 Unnamed: 21 Unnamed: 22 Unnamed: 23                                    Unnamed: 24 Unnamed: 25 Unnamed: 26 Unnamed: 27 Unnamed: 28 Unnamed: 29 Unnamed: 30 Unnamed: 31 Unnamed: 32 Unnamed: 33 Unnamed: 34 Unnamed: 35         Unnamed: 36 Unnamed: 37 Unnamed: 38 Unnamed: 39 Unnamed: 40 Unnamed: 41 Unnamed: 42 Unnamed: 43   Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47 Unnamed: 48               Unnamed: 49 Unnamed: 50 Unnamed: 51 Unnamed: 52 Unnamed: 53 Unnamed: 54            Unnamed: 55
+0                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                            NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+1                                                                                                                            PERIODO DEL SEGUIMIENTO:        NaN         De                   Abril   Periodo:       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                            NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+2                                                                                                                                                 NaN        NaN          A                   Junio        NaN       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                            NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+3                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                            NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+4                                                                                                                        Plan de Desarrollo Distrital        NaN        NaN  Identificación general        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN  Características del Indicador         NaN         NaN         NaN         NaN         NaN         NaN  Horizonte temporal         NaN         NaN         NaN         NaN         NaN         NaN  Registro del seguimiento mensual - trimestral         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN  Territorialización         NaN         NaN         NaN         NaN         NaN         NaN         NaN  Responsables         NaN         NaN         NaN         NaN  Seguimiento presupuestal         NaN         NaN         NaN         NaN         NaN  Aprendizaje reflexivo
+
+Potential Categorical Columns (Cardinality < 20):
+  - Unnamed: 3: [nan 'Abril' 'Junio' 'Identificación general' 'Código Indicador' 469 470
+ 471 472]
+  - Unnamed: 5: [nan 2025 'Subdimensión'
+ 'Apoyo público-administrativo a la participación ciudadana'
+ 'Surgimiento y renovación de actores, sectores y agendas de la participación'
+ 'Relacionamiento entre actores sociales, políticos e institucionales'
+ 'Reconocimiento social, político e institucional']
+  - Unnamed: 16: [nan 'Fecha/periodo de actualización' datetime.datetime(2025, 3, 30, 0, 0)
+ datetime.datetime(2025, 7, 3, 0, 0)]
+  - Unnamed: 17: [nan 'Horizonte temporal' 'Línea base' 4 12 2]
+  - Unnamed: 18: [nan 'Año base' 2024]
+  - Unnamed: 21: [nan 'Año meta' 2025]
+  - Unnamed: 24: [nan 'Registro del seguimiento mensual - trimestral' 'Trimestre I - 2025'
+ 'Resultado' 1 0]
+  - Unnamed: 27: [nan 'Trimestre II - 2025' 'Resultado' 0 '100%\n\n']
+  - Unnamed: 37: [nan 'LGBT' 2]
+  - Unnamed: 39: [nan 'Discapacidad' 1]
+  - Unnamed: 40: [nan 'Afro' 10]
+  - Unnamed: 41: [nan 'Indígena' 2]
+  - Unnamed: 42: [nan 'Víctimas' 28]
+  - Unnamed: 44: [nan 'Responsables' 'Unidades y dependencias responsables de la ejecución'
+ 'Código Dependencia Responsable (reporte)' 725]
+  - Unnamed: 47: [nan 'Código Dependencia Responsable (misional)' 725]
+  - Unnamed: 49: [nan 'Seguimiento presupuestal' 'Inversión por producto'
+ 'Código del Proyecto \n' 240280 240279]
+  - Unnamed: 51: [nan 'Meta del Proyecto' 1]
+
+--- Analysis of Sheet: Matriz_MISE_SISF_300625 ---
+Dimensions: (11, 48)
+Columns:
+  - Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín
+Seguimiento - Capa Interna (str)
+  - Unnamed: 1 (str)
+  - Unnamed: 2 (str)
+  - Unnamed: 3 (object)
+  - Unnamed: 4 (str)
+  - Unnamed: 5 (object)
+  - Unnamed: 6 (str)
+  - Unnamed: 7 (str)
+  - Unnamed: 8 (str)
+  - Unnamed: 9 (str)
+  - Unnamed: 10 (str)
+  - Unnamed: 11 (str)
+  - Unnamed: 12 (str)
+  - Unnamed: 13 (str)
+  - Unnamed: 14 (str)
+  - Unnamed: 15 (str)
+  - Unnamed: 16 (object)
+  - Unnamed: 17 (object)
+  - Unnamed: 18 (object)
+  - Unnamed: 19 (str)
+  - Unnamed: 20 (object)
+  - Unnamed: 21 (object)
+  - Unnamed: 22 (str)
+  - Unnamed: 23 (str)
+  - Unnamed: 24 (object)
+  - Unnamed: 25 (str)
+  - Unnamed: 26 (str)
+  - Unnamed: 27 (object)
+  - Unnamed: 28 (str)
+  - Unnamed: 29 (str)
+  - Unnamed: 30 (object)
+  - Unnamed: 31 (str)
+  - Unnamed: 32 (str)
+  - Unnamed: 33 (str)
+  - Unnamed: 34 (str)
+  - Unnamed: 35 (str)
+  - Unnamed: 36 (object)
+  - Unnamed: 37 (str)
+  - Unnamed: 38 (str)
+  - Unnamed: 39 (object)
+  - Unnamed: 40 (str)
+  - Unnamed: 41 (object)
+  - Unnamed: 42 (str)
+  - Unnamed: 43 (object)
+  - Unnamed: 44 (object)
+  - Unnamed: 45 (object)
+  - Unnamed: 46 (str)
+  - Unnamed: 47 (str)
+
+First 5 rows:
+  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín\nSeguimiento - Capa Interna Unnamed: 1 Unnamed: 2              Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6                                                                                                               Unnamed: 7 Unnamed: 8 Unnamed: 9                    Unnamed: 10 Unnamed: 11 Unnamed: 12 Unnamed: 13 Unnamed: 14 Unnamed: 15 Unnamed: 16         Unnamed: 17 Unnamed: 18 Unnamed: 19 Unnamed: 20 Unnamed: 21 Unnamed: 22 Unnamed: 23                                          Unnamed: 24 Unnamed: 25 Unnamed: 26 Unnamed: 27 Unnamed: 28 Unnamed: 29 Unnamed: 30 Unnamed: 31 Unnamed: 32 Unnamed: 33 Unnamed: 34 Unnamed: 35   Unnamed: 36 Unnamed: 37 Unnamed: 38 Unnamed: 39 Unnamed: 40               Unnamed: 41 Unnamed: 42 Unnamed: 43 Unnamed: 44 Unnamed: 45 Unnamed: 46            Unnamed: 47
+0                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                                  NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+1                                                                                                                            PERIODO DEL SEGUIMIENTO:        NaN         De                   Enero   Periodo:       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                                  NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+2                                                                                                                                                 NaN        NaN          A               Diciembre        NaN       2025        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                                  NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+3                                                                                                                                                 NaN        NaN        NaN                     NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN                            NaN         NaN         NaN         NaN         NaN         NaN         NaN                 NaN         NaN         NaN         NaN         NaN         NaN         NaN                                                  NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN           NaN         NaN         NaN         NaN         NaN                       NaN         NaN         NaN         NaN         NaN         NaN                    NaN
+4                                                                                                                        Plan de Desarrollo Distrital        NaN        NaN  Identificación general        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN  Características del Indicador         NaN         NaN         NaN         NaN         NaN         NaN  Horizonte temporal         NaN         NaN         NaN         NaN         NaN         NaN  Registro del seguimiento - trimestral\t\t\t\t\t\t\t         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN  Responsables         NaN         NaN         NaN         NaN  Seguimiento presupuestal         NaN         NaN         NaN         NaN         NaN  Aprendizaje reflexivo
+
+Potential Categorical Columns (Cardinality < 20):
+  - Unnamed: 3: [nan 'Enero' 'Diciembre' 'Identificación general' 'Código Indicador' 460
+ 461 462 464]
+  - Unnamed: 5: [nan 2025 'Subdimensión'
+ 'Habilidades y competencias para el ejercicio de la ciudadanía y los liderazgos'
+ 'Agenciamiento ciudadano e interés en los asuntos públicos'
+ 'Apoyo público-administrativo a la participación ciudadana'
+ 'Articulación interinstitucional']
+  - Unnamed: 16: [nan 'Fecha/periodo de actualización' datetime.datetime(2025, 4, 9, 0, 0)
+ datetime.datetime(2024, 4, 9, 0, 0)]
+  - Unnamed: 17: [nan 'Horizonte temporal' 'Línea base' 440 1 7146]
+  - Unnamed: 18: [nan 'Año base' 2024 2023]
+  - Unnamed: 20: [nan 'Meta del indicador' 440 1 1500]
+  - Unnamed: 21: [nan 'Año meta' 2025]
+  - Unnamed: 24: [nan 'Registro del seguimiento - trimestral\t\t\t\t\t\t\t'
+ 'Trimestre I - 2025' 'Resultado' 0]
+  - Unnamed: 27: [nan 'Trimestre II- 2025' 'Resultado' 0 241]
+  - Unnamed: 30: [nan 'Trimestre III- 2025' 'Resultado' 0 241]
+  - Unnamed: 36: [nan 'Responsables' 'Unidades y dependencias responsables de la ejecución'
+ 'Código Dependencia Responsable (reporte)' 722]
+  - Unnamed: 39: [nan 'Código Dependencia Responsable (misional)' 722]
+  - Unnamed: 41: [nan 'Seguimiento presupuestal' 'Inversión por producto'
+ 'Código del Proyecto \n' 240030 240041]
+  - Unnamed: 43: [nan 'Meta del Proyecto' 440 6509]
+  - Unnamed: 44: [nan 'Presupuesto programado ' 959367508.9000001]
+  - Unnamed: 45: [nan 'Presupuesto ejecutado' 520728344.70000005]
+
+--- Analysis of Sheet: Matriz_MISE_SPC_300625 ---
+Dimensions: (60, 51)
+Columns:
+  - Unnamed: 0 (str)
+  - Unnamed: 1 (str)
+  - Unnamed: 2 (str)
+  - Unnamed: 3 (object)
+  - Unnamed: 4 (str)
+  - Unnamed: 5 (object)
+  - Unnamed: 6 (str)
+  - Unnamed: 7 (str)
+  - Unnamed: 8 (str)
+  - Unnamed: 9 (str)
+  - Unnamed: 10 (str)
+  - Unnamed: 11 (str)
+  - Unnamed: 12 (str)
+  - Unnamed: 13 (str)
+  - Unnamed: 14 (str)
+  - Unnamed: 15 (str)
+  - Unnamed: 16 (object)
+  - Unnamed: 17 (object)
+  - Unnamed: 18 (object)
+  - Unnamed: 19 (str)
+  - Unnamed: 20 (object)
+  - Unnamed: 21 (object)
+  - Unnamed: 22 (str)
+  - Unnamed: 23 (str)
+  - Unnamed: 24 (object)
+  - Unnamed: 25 (str)
+  - Unnamed: 26 (str)
+  - Unnamed: 27 (object)
+  - Unnamed: 28 (str)
+  - Unnamed: 29 (str)
+  - Unnamed: 30 (str)
+  - Unnamed: 31 (object)
+  - Unnamed: 32 (str)
+  - Unnamed: 33 (object)
+  - Unnamed: 34 (object)
+  - Unnamed: 35 (object)
+  - Unnamed: 36 (object)
+  - Unnamed: 37 (str)
+  - Unnamed: 38 (object)
+  - Unnamed: 39 (str)
+  - Unnamed: 40 (str)
+  - Unnamed: 41 (str)
+  - Unnamed: 42 (object)
+  - Unnamed: 43 (str)
+  - Unnamed: 44 (object)
+  - Unnamed: 45 (str)
+  - Unnamed: 46 (object)
+  - Unnamed: 47 (object)
+  - Unnamed: 48 (object)
+  - Unnamed: 49 (str)
+  - Unnamed: 50 (str)
+
+First 5 rows:
+                                                                                                                                            Unnamed: 0 Unnamed: 1 Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6                                                                                                               Unnamed: 7 Unnamed: 8 Unnamed: 9 Unnamed: 10 Unnamed: 11 Unnamed: 12 Unnamed: 13 Unnamed: 14 Unnamed: 15 Unnamed: 16 Unnamed: 17 Unnamed: 18 Unnamed: 19 Unnamed: 20 Unnamed: 21 Unnamed: 22 Unnamed: 23 Unnamed: 24 Unnamed: 25 Unnamed: 26 Unnamed: 27 Unnamed: 28 Unnamed: 29 Unnamed: 30 Unnamed: 31 Unnamed: 32 Unnamed: 33 Unnamed: 34 Unnamed: 35 Unnamed: 36 Unnamed: 37 Unnamed: 38 Unnamed: 39 Unnamed: 40 Unnamed: 41 Unnamed: 42 Unnamed: 43 Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47 Unnamed: 48 Unnamed: 49 Unnamed: 50
+0                                                                                                                                                  NaN        NaN        NaN        NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+1                                                                                                                                                  NaN        NaN        NaN        NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+2  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín\nSeguimiento - Capa Interna        NaN        NaN        NaN        NaN        NaN        NaN                                                                                                                      NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+3                                                                                                                                                  NaN        NaN        NaN        NaN        NaN        NaN        NaN  Matriz Integrada de Seguimiento y Evaluación de la Política Pública de Participación Ciudadana del Distrito de Medellín        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+4                                                                                                    PERIODO DEL SEGUIMIENTO: TRIMESTRES I Y II  2025.        NaN         De      Julio   Periodo:       2024        NaN                                                                                                                      NaN        NaN        NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+
+Potential Categorical Columns (Cardinality < 20):
+  - Unnamed: 5: [nan 2024 'Subdimensión'
+ 'Marco estratégico para la participación ciudadana'
+ 'Articulación interinstitucional'
+ 'Gestión de la información y el conocimiento'
+ 'Habilidades y competencias para el ejercicio de la ciudadanía y los liderazgos'
+ 'Relacionamiento entre actores sociales, políticos e institucionales'
+ 'Apoyo público-administrativo a la participación ciudadana'
+ 'Confianza social y política' 'Comunicación pública y gobierno abierto'
+ 'Reconocimiento social, político e institucional'
+ 'Legitimidad de los liderazgos'
+ 'Surgimiento y renovación de actores, sectores y agendas de la participación']
+  - Unnamed: 16: [nan 'Fecha/periodo de actualización' datetime.datetime(2025, 6, 30, 0, 0)]
+  - Unnamed: 18: [nan 'Año base' 2023 2024 'No aplica']
+  - Unnamed: 21: [nan 'Año meta' 2025]
+  - Unnamed: 31: [nan 'LGBT' 0 369 85 101 2 'X' 3]
+  - Unnamed: 33: [nan 'Discapacidad' 25 6952 102 135 5 'X' 1 3]
+  - Unnamed: 34: [nan 'Afro' 0 390 87 45 17 'X' 2 8]
+  - Unnamed: 35: [nan 'Indígena' 0 39 3 2]
+  - Unnamed: 36: [nan 'Víctimas' 0 425 5 16 'X' 3 9]
+  - Unnamed: 38: [nan 'Responsables' 'Unidades y dependencias responsables de la ejecución'
+ 'Código Dependencia Responsable (reporte)' 712]
+  - Unnamed: 42: [nan '<<' 712]
+  - Unnamed: 44: [nan 'Seguimiento presupuestal' 'Inversión por producto'
+ 'Código del Proyecto \n' 240182 '240182\n240188' 240192 240188 240191
+ 240189 240193 240185 240184 240187 240190 240183 240186]
+  - Unnamed: 46: [nan 'Meta del Proyecto' 500 65 250 800 50 11 0.6 1.03 21 35 437 6 0.45 23
+ 100 77 406]
+  - Unnamed: 47: [nan 'Presupuesto programado ' 1862754303 3023709934 2759743353 357084439
+ 328951378 4593932802 676977342 6584859523 1721496837 776180766 341710567
+ 524042514]
+  - Unnamed: 48: [nan 'Presupuesto ejecutado' 1735137979 2328357866 1840703640 337782081
+ 309649020 3913626515 580216857 3400886416 1622560150 724278300 321801404
+ 494695154]

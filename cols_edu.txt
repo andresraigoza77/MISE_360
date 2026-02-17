@@ -1,0 +1,56 @@
+0: pilar o eje  plan de desarrollo distrital
+1: programa plan de desarrollo distrital 
+2: proyectos estratégicos  plan de desarrollo distrital
+3: código indicador
+4: dimensión
+5: subdimensión
+6:  componente
+7: producto/accion
+8:  indicador de producto
+9: población objetivo
+10: tipo de indicador
+11: fórmula de cálculo
+12: variables que componen la fórmula
+13: fuente de datos
+14: unidad de medida del indicador
+15: periodicidad de cálculo del indicador
+16: fecha/periodo de actualización
+17: línea base
+18: año base
+19: unidad de medida de la línea base
+20: meta del indicador
+21: año meta
+22: comportamiento deseado
+23: tipo de acumulación
+24: resultado
+25: observaciones 
+26: fuente de verificacion
+27: resultado
+28: observaciones 
+29: fuente de verificacion
+30: resultado
+31: observaciones 
+32: fuente de verificacion
+33: resultado
+34: observaciones 
+35: fuente de verificacion
+36: sexo
+37: lgbt
+38: rangos etarios
+39: discapacidad
+40: afro
+41: indígena
+42: víctimas
+43: comunas-corregimientos
+44: código dependencia responsable (reporte)
+45: nombre dependencia responsable (reporte)
+46: unidad responsable del reporte
+47: código dependencia responsable (misional)
+48: nombre dependencia responsable (misional)
+49: código del proyecto  
+50: nombre del proyecto
+51: meta del proyecto
+52: presupuesto programado 
+53: presupuesto ejecutado
+54: observaciones presupuesto
+55: observaciones seguimiento

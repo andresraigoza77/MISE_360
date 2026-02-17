@@ -1,0 +1,11 @@
+Existing Indicators in DB: 44
+--------------------------------------------------------------------------------
+File                           | Sheet                | Total | New   | Exist
+--------------------------------------------------------------------------------
+020226_SPC_301225.xlsx         | 4. Seguimiento 2025( | 50    | 50    | 0
+030226_GerenciaÉtnica.xlsx     | 4. Seguimiento 2024  | 6     | 0     | 6
+090226_SISF_301225.xlsx        | 4. Seguimiento 2025  | 4     | 0     | 4
+230126_Mujeres__MISE.xlsx      | 4. Seguimiento 2024  | 9     | 0     | 9
+230126_SGHSC_300925.xlsx       | 4. Seguimiento 2025  | 3     | 0     | 3
+260126_DAP.xlsx                | 4. Seguimiento 2024  | 9     | 0     | 9
+270126_Sec_Educación.xlsx      | 4. Seguimiento 2024. | 7     | 0     | 7
